@@ -13,11 +13,13 @@
 
 <p align="center">Awesome badges above come from <a href="https://github.com/Ileriayo/markdown-badges">this</a> repository.</p>
 
+<br/>
 <h2 align="center">Mad Skills I Have</h2>
 <p align="center">I can exit Vim. No, I don't use Vim, just know how to exit it.</p>
 <p align="center">I can center a div.</p>
 <p align="center">I Google like no tomorrow.</p>
 
+<br/>
 <h2 align="center">Other Places that Have Me</h2>
 
 [![my codewars badge](https://www.codewars.com/users/VolrakRutra/badges/large)](https://www.codewars.com/users/VolrakRutra)
