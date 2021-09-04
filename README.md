@@ -10,6 +10,8 @@
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
+<p align="center">Awesome badges above come from <a href="https://github.com/Ileriayo/markdown-badges">this</a> repository.</p>
 <h2 align="center">Other Places that Have Me</h2>
  
   [![my codewars badge](https://www.codewars.com/users/VolrakRutra/badges/large)](https://www.codewars.com/users/VolrakRutra)
